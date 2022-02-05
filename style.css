@@ -4,8 +4,13 @@ body {
 
 h1 {
   color: blue;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
 }
 
 .texte {
   color: black;
+  font-family: 'Poppins', sans-serif;
 }
+
+font-family: 'Poppins', sans-serif;
