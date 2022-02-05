@@ -1,7 +1,11 @@
-.blau {
+body {
+  color: white;
+}
+
+h1 {
   color: blue;
 }
 
-.gruen {
-  color: green;
+.texte {
+  color: black;
 }
