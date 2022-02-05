@@ -23,10 +23,13 @@ p {
 
 .row {
   width: 90%;
+  position: absolute;
 }
 
 .column {
+  box-sizing: border-box;
+  background-color: #green;
   float: left;
   width: 33.33%;
-  padding: 30px;
+  padding: 10px;
 }
