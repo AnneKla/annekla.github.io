@@ -17,8 +17,7 @@ p {
 .header {
   width: 90%;
   padding: 60px;
-  padding-top: 10px;
-  align: center;
+  padding-top: 1%;
   text-align: right;
   background-color: pink;
 }
