@@ -12,26 +12,33 @@ p {
   color: black;
   font-family: 'Poppins', sans-serif;
   font-weight: 200;
+  text-align: right;
 }
 
 .header {
-  width: 90%;
-  padding: 60px;
-  padding-top: 1%;
-  text-align: right;
+  position: absolute;
+  width: 60%;
+  height: 30%;
+  margin-top: 20%;
+  padding-top: 80%;
   background-color: pink;
 }
 
-.headerleft {
+.containerleft {
   width: 50%;
+  height: 100%;
   background-color: grey;
-  position: relative;
+}
+
+.svgbild {
   float: left;
 }
 
-.headerright {
-  width:50%;
+
+.containerright {
+  width: 50%;
+  height: 100%;
   background-color: white;
-  position: relative;
-  float: right;
+
+
 }
