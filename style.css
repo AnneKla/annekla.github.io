@@ -16,22 +16,21 @@ p {
 }
 
 .header {
-  position: fixed;
-  width: 100%;
+  position: absolute;
   height: 200px;
   margin-left: 0px;
-  margin-right: 0px;
+  margin-right: 100px;
   margin-top: 20px;
   padding-left: 10%;
   padding-right: 10%;
-  background-color: orange;
+  color: orange;
 }
 
 .bildcontainer {
-  position: absolute;
+  position: relative;
   float: left;
+
 }
 
 .svgbild {
-  float: left;
 }
