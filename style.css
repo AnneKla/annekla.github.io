@@ -18,16 +18,10 @@ p {
 .header {
   position: relative;
   width: 60%;
-  height: 30%;
+  height: 200px;
   margin-top: 20%;
   padding-top: 80%;
   background-color: pink;
-}
-
-.containerleft {
-  width: 50%;
-  height: 100%;
-  background-color: grey;
 }
 
 .svgbild {
@@ -35,10 +29,7 @@ p {
 }
 
 
-.containerright {
-  width: 50%;
-  height: 100%;
-  background-color: white;
+
 
 
 }
