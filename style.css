@@ -27,6 +27,7 @@ p {
 }
 
 .bildcontainer {
+  background-color: orange;
   position: relative;
   float: left;
 }
