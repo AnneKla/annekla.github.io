@@ -39,7 +39,7 @@ p {
 
 
 .textcontainer {
-  position: absolute;
+  position: relative;
   float: right;
 }
 
