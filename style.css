@@ -34,17 +34,13 @@ p {
   background-color: orange;
   position: absolute;
   float: left;
-  width: 50%;
 }
 
-#aksvg {
 
-}
 
 .textcontainer {
   position: absolute;
   float: right;
-  width: 50%;
 }
 
 .svgbild {
