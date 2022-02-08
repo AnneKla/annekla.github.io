@@ -19,8 +19,10 @@ p {
 /* mobile first */
 
 .header {
+  Position: relative;
   margin-top: 0px;
   margin-bottom: 0px;
+  height: 300px;
   background-color: blue;
   padding-top: 5%;
   padding-left: 20%;
@@ -30,13 +32,19 @@ p {
 
 .bildcontainer {
   background-color: orange;
-  position: relative;
+  position: absolute;
   float: left;
+  width: 50%;
+}
+
+#aksvg {
+
 }
 
 .textcontainer {
-  position: relative;
+  position: absolute;
   float: right;
+  width: 50%;
 }
 
 .svgbild {
