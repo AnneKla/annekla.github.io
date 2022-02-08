@@ -34,6 +34,7 @@ p {
   background-color: orange;
   position: absolute;
   float: left;
+  margin-bottom: 20px;
 }
 
 
@@ -41,6 +42,7 @@ p {
 .textcontainer {
   position: relative;
   float: right;
+  margin-bottom: 20px;
 }
 
 .svgbild {
